@@ -51,22 +51,31 @@ linux-infra-automation/
 │ ├── system_update.sh
 │ 
 └── screenshots
+
 ---
+
 🧩 Quick Steps to Run the Project
 
 •First, clone the repository
 git clone https://github.com/Eman-gul457/Linux-Infrastructure-Automation.git
+
 •Go inside the project folder
 cd linux-infra-automation/scripts
+
 •(Optional) Update the system
+
 •Setup the Web Server
 ./setup_webserver.sh
+
 •Setup MariaDB in Docker
 ./setup_mariadb_docker.sh
+
 •Test the MariaDB connection
 ./test_mariadb_docker.sh
+
 •Setup the File Server (Samba)
 ./setup_fileserver.sh
+
 •Apply System Hardening
 ./hardening.sh
 
