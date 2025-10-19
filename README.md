@@ -49,8 +49,8 @@ linux-infra-automation/
 │ ├── setup_fileserver.sh
 │ ├── hardening.sh
 │ ├── system_update.sh
-│ 
-└── screenshots
+|
+└── screenshots/
 
 ---
 
